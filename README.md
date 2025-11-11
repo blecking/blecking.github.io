@@ -17,3 +17,8 @@
 <a href="https://www.schleppstart.de" target="blank">münstAIRland</a><br>
 <a href="https://www.diomedea.de" target="blank">Diomedea</a><br>
 <a href="https://www.skyrider-online.de" target="blank">Skyrider</a><br>
+
+<h2>DHV</h2>
+<a href="https://www.dhv" target="blank">DHV</a><br>
+<a href="https://service.dhv.de" target="blank">DHV Service</a><br>
+<a href="https://dhv-ausbildung.de" target="blank">DHV Ausbildung</a><br>
