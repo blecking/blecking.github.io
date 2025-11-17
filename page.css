@@ -1,3 +1,12 @@
 body {
   font-family: verdana;
 }
+
+.station_parent {
+  display: flex;
+  column-gap: 20px;
+}
+
+.station_child {
+  display: inline-block;
+}
