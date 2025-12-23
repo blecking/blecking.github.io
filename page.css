@@ -14,3 +14,11 @@ body {
 .station > h5 {
   text-align: center
 }
+
+h2 {
+  background-color: #bdbdbd;
+}
+
+h4 {
+  background-color: #d9d9d9;
+}
